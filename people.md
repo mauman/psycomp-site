@@ -15,11 +15,3 @@ layout: default
 #### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/fabio.jpg?raw=true"><a href="https://research.uniroma1.it/en/researcher/838953f048bfa2bfd6018add9fc26a0266584001a85649b02c3d3091?page=1">Prof Fabio Alivernini</a>
 
 #### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/tommaso.jpg?raw=true"><a href="https://corsidilaurea.uniroma1.it/en/users/tommasopalombiuniroma1it">Dr Tommaso Palombi</a>
-
-### University of Trento, Computer Science Department
-
-#### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/giovanna.png?raw=true"><a href="https://www.scopus.com/authid/detail.uri?authorId=24765745800">Prof Giovanna Varni</a>
-
-### University of Genoa, Computer Science Department
-
-#### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/radoslaw.jpg?raw=true"><a href="https://www.researchgate.net/profile/Radoslaw-Niewiadomski">Dr Radoslaw Niewiadomski</a>
