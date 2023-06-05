@@ -20,6 +20,6 @@ layout: default
 
 #### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/giovanna.png?raw=true"><a href="https://www.scopus.com/authid/detail.uri?authorId=24765745800">Prof Giovanna Varni</a>
 
-### University of Genoa, Psychology Department
+### University of Genoa, Computer Science Department
 
 #### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/radoslaw.jpg?raw=true"><a href="https://www.researchgate.net/profile/Radoslaw-Niewiadomski">Dr Radoslaw Niewiadomski</a>
