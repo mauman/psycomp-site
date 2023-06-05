@@ -17,8 +17,3 @@ Dr. Iacopo Masi is Associate Professor in the Computer Science Department at [Sa
 ### Welcome
 
 Welcome to our research lab, a place where Computer Science meets Psychology! Our lab is the result of a productive collaboration between the <a href="https://www.di.uniroma1.it/en">Computer Science Department</a> and the <a href="https://web.uniroma1.it/dip38/home">Psychology Department</a> @ the Sapienza University in Rome. Our team of researchers works on creating intelligent technologies that can interact with humans in a more natural and intuitive way. By combining the latest advances in Computer Science and Psychology, we are able to develop innovative prototypes that can enhance Human-Computer Interaction in a variety of fields. Our lab focuses on a wide variety of research areas, including Artificial Intelligence, Psychometrics, Virtual Reality, and Data Analysis. We invite you to discover more about our lab and join us in shaping the future of Human-Centered technology!
-
-Our research lab has ongoing international collaborations with other labs and groups, for example:
-
-- the lab of <a href="https://www.kth.se/profile/roberto/">Prof Roberto Bresin</a> @ KTH, Stockholm, Sweden
-- the group of <a href="https://lineact.cesi.fr/en/cv-chercheurs/biancardi-beatrice/">Dr Beatrice Biancardi</a> @ Innovation and research laboratory, CESI LINEACT, Paris, France
