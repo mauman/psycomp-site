@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -7,6 +8,10 @@ layout: default
 ### Sapienza University, Computer Science Department
 
 #### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/maurizio.png?raw=true"><a href="https://research.uniroma1.it/researcher/602fc59d475eb3424350ecb321baa87767d50003ddf1043a40f1fd90">Prof Maurizio Mancini</a>
+
+#### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;" src="imgs/selim.jpg?raw=true"><a href="https://cocoa-research.github.io/people.html#Selim">Dr. Selim Soufargi</a>
+
+#### <img class="circle" style="float: none; margin-right: 0px; margin-top: 0px;"><a href="#">Yifei Li, Ph.D. Student</a>
 
 ### Sapienza University, Psychology Department
 
